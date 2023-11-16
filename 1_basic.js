@@ -1,5 +1,5 @@
 
-//promise
+//promise//////////////////
 let mingRunPromise=(someone)=>{
     let ran=parseInt(Math.random()*2);
     return new Promise((resolve,reject)=>{
